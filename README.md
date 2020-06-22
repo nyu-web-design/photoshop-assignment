@@ -37,6 +37,8 @@ The work you do in this assignment will be published to the same directory where
 
 In order to submit this assignment, you must publish all modified files to the web and upload the code to GitHub.
 
+You **must** include your original Photoshop `.psd` document in the `images` directory in the code you submit to GitHub, as well as the "flat" file in `.jpg` or `.png` format.
+
 ### Upload the web page to a web server
 
 Upload all files you have created to a web server. Your instructor will have given you instructions for how to do this.
