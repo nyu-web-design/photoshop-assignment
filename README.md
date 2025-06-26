@@ -1,6 +1,6 @@
-# Photoshop Assignment
+# Raster Image Assignment
 
-Welcome! In this assignment, you will use Photoshop to create a picture of yourself placed into an unlikely, unique or impossible location.
+Welcome! In this assignment, you will use [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/) to create a picture of yourself placed into an unlikely, unique or impossible location.
 
 You might place yourself at the North Pole, for example, climbing the Eiffel Tower, jumping over the moon … or simply standing beside the President at his very crowded inaugural celebration.
 
@@ -8,7 +8,7 @@ You might place yourself at the North Pole, for example, climbing the Eiffel Tow
 
 Do the following:
 
-### Photoshop requirements
+### Image requirements
 
 - there should be at least six objects in six layers, including the picture of yourself
 - you are forbidden from removing any image data from any image in any layer... use layer masks instead if you want to make parts of a layer transparent
@@ -17,7 +17,7 @@ Do the following:
 
 Pay special attention to the edges of objects, shadows and lighting as well as to the proportions of your objects. Use filters and layer effects to enhance your image.
 
-There are many, many tools that are available in Photoshop, and we encourage you to explore them. Please, have fun with this assignment and feel free to use your imagination!
+There are many, many tools that are available in Photoshop or GIMP, and we encourage you to explore them. Please, have fun with this assignment and feel free to use your imagination!
 
 ### Publishing requirements
 
@@ -37,7 +37,7 @@ The work you do in this assignment will be published to the same directory where
 
 In order to submit this assignment, you must publish all modified files to the web and upload the code to GitHub.
 
-You **must** include your original Photoshop `.psd` document in the `images` directory in the code you submit to GitHub, as well as the "flat" file in `.jpg` or `.png` format.
+You **must** include your original Photoshop `.psd` or GIMP `.xcf` document in the `images` directory in the code you submit to GitHub, as well as the "flat" file in `.jpg` or `.png` format.
 
 ### Upload the web page to a web server
 
